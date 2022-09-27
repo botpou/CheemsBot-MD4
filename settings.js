@@ -43,7 +43,7 @@ global.autoRecord = false //auto recording (true to on, false to off)
 global.available = true //auto available (true to on, false to off)
 
 //semt menu variants
-global.vidmenu = fs.readFileSync("./XeonMedia/theme/Cheems-bot.mp4") //gif and video menu
+global.menu = fs.readFileSync("./Xedia/theme/C") //
 
 //documents variants
 global.doc1 = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -64,7 +64,7 @@ global.location = "India, Mizoram, Aizawl" //ur location
 global.owner = ['916909137213']
 global.ownertag = '916909137213' //ur tag number
 global.botname = 'Cheems Bot MD V4' //ur bot name
-global.linkz = "https://yo" //y
+global.youtube = "https://yo" //y
 global.websitex = "https://youtu" //
 global.botscript = 'https://github.c' //
 global.reactmoji = "😘" //ur menu react emoji
